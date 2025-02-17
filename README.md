@@ -13,22 +13,24 @@
   <img src="https://img.shields.io/badge/-BSIT%20Student-0072ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Intern%20Developer-fb8500?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MLBB%20Mythic%20Immortal-ff007f?style=for-the-badge" />
+  <br>
+  <table>
+    <tr>
+      <td><b>🎓 Studying:</b></td>
+      <td>BSIT (4th Year) | Intern Developer</td>
+    </tr>
+    <tr>
+      <td><b>🔥 Passion:</b></td>
+      <td>Building Web Apps with Laravel & Next.js</td>
+    </tr>
+    <tr>
+      <td><b>⚡ Fun Fact:</b></td>
+      <td>Sunrises make me emotional 🌅</td>
+    </tr>
+  </table>
 </div>
 
-<table>
-  <tr>
-    <td><b>🎓 Studying:</b></td>
-    <td>BSIT (4th Year) | Intern Developer</td>
-  </tr>
-  <tr>
-    <td><b>🔥 Passion:</b></td>
-    <td>Building Web Apps with Laravel & Next.js</td>
-  </tr>
-  <tr>
-    <td><b>⚡ Fun Fact:</b></td>
-    <td>Sunrises make me emotional 🌅</td>
-  </tr>
-</table>
+
 
 ---
 
