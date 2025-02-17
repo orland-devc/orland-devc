@@ -1,23 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=13,24,36&text=ARISE&desc=System%20Recognizes%20New%20Shadow%20Developer&animation=fadeIn&fontColor=fff&fontSize=80&descSize=20&descAlignY=62&descAlign=50" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9C38FF&center=true&vCenter=true&width=435&lines=SYSTEM+SCANNING...;S-RANK+HUNTER+DETECTED;COMBAT+LEVEL%3A+INCREASING...;SHADOW+EXTRACTION+AUTHORIZED" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-```
-╔══════════════════════════════════════╗
-║         HUNTER STATUS REPORT         ║
-╠══════════════════════════════════════╣
-║ NAME: ORLAND BENNIEDICT              ║
-║ RANK: S-CLASS DEVELOPER IN TRAINING  ║
-║ CLASS: SHADOW MONARCH'S SUCCESSOR    ║
-║ SPEC: FULL-STACK SHADOW MANIPULATION ║
-╚══════════════════════════════════════╝
-```
+<div align="center">
+  <table border="0" align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=orland-devc&show_icons=true&bg_color=000000&hide_border=true&title_color=9C38FF&text_color=FFFFFF&icon_color=9C38FF"/>
+      </td>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=orland-devc&theme=dark&hide_border=true&background=000000&ring=9C38FF&fire=9C38FF&currStreakLabel=9C38FF"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 </div>
 
@@ -41,32 +39,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,tailwind,mysql,sqlite&theme=dark" />
-  
-```
-╔══════════════════════════════════════╗
-║            SYSTEM NOTICE             ║
-╠══════════════════════════════════════╣
-║ DAILY QUESTS: MASTERING NEW TECH     ║
-║ CURRENT DUNGEON: WEB DEV TOWER       ║
-║ NEXT BOSS BATTLE: SYSTEM ARCHITECT   ║
-╚══════════════════════════════════════╝
-```
 
-</div>
-
-## 📊 COMBAT STATISTICS
-
-<div align="center">
-  <table border="0" align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=orland-devc&show_icons=true&bg_color=000000&hide_border=true&title_color=9C38FF&text_color=FFFFFF&icon_color=9C38FF"/>
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=orland-devc&theme=dark&hide_border=true&background=000000&ring=9C38FF&fire=9C38FF&currStreakLabel=9C38FF"/>
-    </td>
-  </tr>
-  </table>
 </div>
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
