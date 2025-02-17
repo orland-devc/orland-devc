@@ -1,16 +1,12 @@
-<h1 align="center">🚀 Hey there, I'm Orland! 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Tech+Enthusiast;Code+%26+Coffee+Lover;Always+Learning+New+Tech" alt="Typing Animation">
-</p>
-
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Tech+Enthusiast;Code+%26+Coffee+Lover;Always+Learning+New+Tech" alt="Typing Animation">
+</p>
 
 ## 🎨 About Me  
 <div align="center">
@@ -43,25 +39,57 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Performance Metrics
+
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=orland-devc&theme=highcontrast&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=orland-devc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0,001f3f,0074cc&title_color=ffffff&text_color=ffffff&icon_color=f7b93e" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=orland-devc&theme=tokyonight&hide_border=true&background=45%2C001f3f%2C0074cc&ring=F7B93E&fire=F7B93E" />
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights  
+## 💫 Highlights & Achievements
+
 <div align="center">
-  <img src="https://img.shields.io/badge/-Consistent%20Dean's%20Lister-0072ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Capstone%20Project%20Deployed-00c6ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MLBB%20Mythical%20Immortal-ff007f?style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=orland-devc&theme=dracula&column=4&row=1&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-## 🎮 Wanna Play MLBB?  
+### 🏅 Academic Excellence
+<table align="center">
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/-Consistent%20Dean's%20Lister-0072ff?style=for-the-badge" />
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/-Capstone%20Deployed-00c6ff?style=for-the-badge" />
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/-MLBB%20Mythical%20Immortal-ff007f?style=for-the-badge" />
+  </td>
+</tr>
+</table>
+
+---
+
+## 🎮 Gaming Corner
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Mobile%20Legends-JINWOO%20(766948856)-%23000000?style=for-the-badge&logo=mlbb&logoColor=white">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MLBB-JINWOO-000000?style=for-the-badge&logo=game&logoColor=white" />
+        <br/>
+        <sub><b>Main Role: Jungler</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Current Rank-Mythic Immortal-FF007F?style=for-the-badge&logo=game&logoColor=white" />
+        <br/>
+        <sub><b>Season Peak: 1200+ Points</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
