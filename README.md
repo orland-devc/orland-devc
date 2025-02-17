@@ -1,3 +1,5 @@
+<img src="https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" style="width: 100%;" />
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9C38FF&center=true&vCenter=true&width=435&lines=SYSTEM+SCANNING...;S-RANK+HUNTER+DETECTED;COMBAT+LEVEL%3A+INCREASING...;SHADOW+EXTRACTION+AUTHORIZED" alt="Typing SVG" />
 </div>
