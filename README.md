@@ -1,18 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=27&text=ARISE&desc=System%20Recognizes%20New%20Shadow%20Developer&animation=fadeIn&fontColor=fff&fontSize=80&descSize=20&descAlignY=62&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=13,24,36&text=ARISE&desc=System%20Recognizes%20New%20Shadow%20Developer&animation=fadeIn&fontColor=fff&fontSize=80&descSize=20&descAlignY=62&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&color=9C38FF&center=true&vCenter=true&width=435&lines=SYSTEM+SCANNING...;S-RANK+HUNTER+DETECTED;COMBAT+LEVEL%3A+INCREASING...;SHADOW+EXTRACTION+AUTHORIZED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9C38FF&center=true&vCenter=true&width=435&lines=SYSTEM+SCANNING...;S-RANK+HUNTER+DETECTED;COMBAT+LEVEL%3A+INCREASING...;SHADOW+EXTRACTION+AUTHORIZED" alt="Typing SVG" />
 </div>
 
-```diff
-@@           HUNTER STATUS REPORT           @@
-+ NAME: ORLAND BENNIEDICT
-- RANK: S-CLASS DEVELOPER IN TRAINING
-! CLASS: SHADOW MONARCH'S SUCCESSOR
-# SPECIALIZATION: FULL-STACK SHADOW MANIPULATION
+<div align="center">
+  
 ```
+╔══════════════════════════════════════╗
+║         HUNTER STATUS REPORT         ║
+╠══════════════════════════════════════╣
+║ NAME: ORLAND BENNIEDICT              ║
+║ RANK: S-CLASS DEVELOPER IN TRAINING  ║
+║ CLASS: SHADOW MONARCH'S SUCCESSOR    ║
+║ SPEC: FULL-STACK SHADOW MANIPULATION ║
+╚══════════════════════════════════════╝
+```
+
+</div>
 
 ## ⚡ CURRENT ATTRIBUTES
 
@@ -35,11 +42,16 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,tailwind,mysql,sqlite&theme=dark" />
   
-  ```diff
-  + DAILY QUESTS: MASTERING NEW TECHNOLOGIES
-  - CURRENT DUNGEON: WEB DEVELOPMENT TOWER
-  ! NEXT BOSS BATTLE: SYSTEM ARCHITECTURE
-  ```
+```
+╔══════════════════════════════════════╗
+║            SYSTEM NOTICE             ║
+╠══════════════════════════════════════╣
+║ DAILY QUESTS: MASTERING NEW TECH     ║
+║ CURRENT DUNGEON: WEB DEV TOWER       ║
+║ NEXT BOSS BATTLE: SYSTEM ARCHITECT   ║
+╚══════════════════════════════════════╝
+```
+
 </div>
 
 ## 📊 COMBAT STATISTICS
@@ -115,9 +127,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9C38FF" width="100%"/>
   
-  ```diff
-  "I ALONE LEVEL UP"
-  ```
+```
+      "I ALONE LEVEL UP"
+```
   
   <img src="https://komarev.com/ghpvc/?username=orland-devc&color=9C38FF&style=flat-square&label=SHADOW+EXTRACTION+COUNT" />
 </div>
