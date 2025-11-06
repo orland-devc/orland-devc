@@ -24,12 +24,12 @@
 ## 🚀 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/orland-devc/Finance-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orland-devc&repo=Finance-Tracker&bg_color=0D1117&hide_border=true&title_color=9C38FF&text_color=FFFFFF&icon_color=9C38FF" />
+  <a href="https://github.com/orland-devc/ticketing-system-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orland-devc&repo=ticketing-system-v2&bg_color=0D1117&hide_border=true&title_color=9C38FF&text_color=FFFFFF&icon_color=9C38FF" />
   </a>
 
-  <a href="https://github.com/orland-devc/ticketing-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orland-devc&repo=ticketing-system&bg_color=0D1117&hide_border=true&title_color=9C38FF&text_color=FFFFFF&icon_color=9C38FF" />
+  <a href="https://github.com/orland-devc/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orland-devc&repo=my-soc-med&bg_color=0D1117&hide_border=true&title_color=9C38FF&text_color=FFFFFF&icon_color=9C38FF" />
   </a>
   <!-- Add more project cards as needed -->
 </div>
@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
   
   <h3>Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase&theme=dark" />
   
   <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=dotnet,php,laravel&theme=dark" />
