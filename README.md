@@ -75,9 +75,9 @@
 
 <br>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=orland-devc&color=9C38FF&style=flat-square" />
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9C38FF&section=footer" width="100%"/>
